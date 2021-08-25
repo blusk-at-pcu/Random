@@ -1,1 +1,1 @@
-Hello World
+This repository is to keep track of the python related topics in a Random Signals and Systems course. The content in this repository is considered as personal notes of the repositor owner, and includes no warranty of any kind. 
